@@ -1,0 +1,12 @@
+﻿{
+  "Name": "stgi-official (Channel) - Summit Technology Group - Slack",
+  "Type": "App",
+  "Id": "3wkZhcUzTk2JTpWZV9pFgg",
+  "Reference": "KD-MXNSXoEenJ_ls10hytg/3wkZhcUzTk2JTpWZV9pFgg",
+  "Created": "2025-07-04T08:08:45.064183Z",
+  "Updated": "2025-07-04T08:08:45.064183Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

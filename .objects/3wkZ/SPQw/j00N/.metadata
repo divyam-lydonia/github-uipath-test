@@ -1,0 +1,13 @@
+﻿{
+  "Name": "stgi-official (Channel) - Summit Technology G",
+  "Type": "Screen",
+  "Id": "j00N83vc7USAQTMz3sbtxA",
+  "Reference": "KD-MXNSXoEenJ_ls10hytg/j00N83vc7USAQTMz3sbtxA",
+  "ParentRef": "KD-MXNSXoEenJ_ls10hytg/SPQwjGNaH0Su7BhMByfu0g",
+  "Created": "2025-07-04T08:08:45.1740086Z",
+  "Updated": "2025-07-04T08:08:45.1740086Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
